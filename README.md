@@ -8,3 +8,4 @@
 8- Exercício oito utilizei do If e Else e Int.
 9- Para achar a temperatura utilizei Float, It, Elif e Else.
 10- nesse exercício utilizei If e Else como foi solicitei.
+Nome: Vinicius Augusto silva RM 566830
